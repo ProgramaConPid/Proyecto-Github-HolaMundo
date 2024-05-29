@@ -2,4 +2,19 @@
   background-color: black;
   color: aqua;
   font-size: 50px;
+  margin-bottom: 2rem;
+}
+
+.about-me {
+  width: 90%;
+  max-width: 900px;
+  margin-inline: auto;
+  overflow: hidden;
+  color: yellow;
+  background-color: black;
+}
+
+.paragraph {
+  font-size: clamp(1rem, 5vw, 2.3rem);
+  line-height: 20px;
 }
